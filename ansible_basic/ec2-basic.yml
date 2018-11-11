@@ -10,7 +10,7 @@
       instance_type: t2.micro
       security_group: ansible-webserver # Change the security group name here
       image: ami-0a5e707736615003c # This is an AMI i created myself
-      keypair: aws-ga-ireland-mailserver_KeyPair # This is one of my keys that i already have in AWS
+      keypair: aws-KeyPair # This is one of my keys that i already have in AWS
       region: eu-west-1 # Change the Region
       count: 1
 

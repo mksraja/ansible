@@ -1,6 +1,6 @@
-aws_access_key: AKIAJ6HKVF2Z7JLHQPCQ
-aws_secret_key: 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
-key_name: aws-ga-ireland-mailserver_KeyPair # This is one of my keys that i already have in AWS
+aws_access_key: Access_Key
+aws_secret_key: Secret_Key
+key_name: aws-KeyPair # This is one of my keys that i already have in AWS
 aws_region: eu-west-1
 vpc_id: 
 cidr_ip: 0.0.0.0/0
